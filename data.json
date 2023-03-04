@@ -1,10 +1,22 @@
 {
-    "Udemy": {
+    "twitter": {
         "email": "itihask56gmail.com",
-        "password": "5mBYwvd&+b2W"
+        "password": "Dcz(xnP5O2z!zC)$"
     },
-    "Github": {
+    "udemy": {
         "email": "itihask56gmail.com",
-        "password": "(5uJs7)VG*6TisLy"
+        "password": "(kjX#E7#e4joZB"
+    },
+    "stackoverflow": {
+        "email": "itihask56gmail.com",
+        "password": "6NK9%PGEH)5+ic"
+    },
+    "geekforgeeks": {
+        "email": "itihask56gmail.com",
+        "password": "0xQp8YP6o8luPn&$("
+    },
+    "facebook": {
+        "email": "itihask56gmail.com",
+        "password": "2UJ(kRWZ2Ds&xO*("
     }
 }
